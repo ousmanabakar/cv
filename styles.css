@@ -1,0 +1,138 @@
+a{
+    color: #11999E;
+    text-decoration: none;
+
+}
+a:hover {
+  color: #EAF6F6;
+}
+body{
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 20px;
+}
+
+.btn {
+    background: #66BFBF;
+    border-radius: 30px;
+    color: #FFFFFF;
+    font-size: 26px;
+    font-weight: 100;
+    padding: 10px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin: 30px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+
+}
+
+.copy-right{
+    color: #EAF6F6;
+    font-size: 0.75em;
+
+}
+
+.contact-message{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.footer-link{
+    margin: 20px;
+    color: #11999E;
+}
+
+
+h1{
+    font-size: 90px;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+}
+h2{
+    font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-weight: bolder;
+    padding-bottom: 10px;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+hr{
+    border:dotted #b5f5f5 6px;
+    border-bottom: none;
+    width: 3%;
+    margin: 50px auto;
+
+}
+
+.middle-container{
+    margin: 100px 0;
+
+}
+.intro{
+    width: 30%;
+    margin: auto;
+}
+.pro{
+    text-decoration: underline;
+}
+p{
+    line-height: 2;
+}
+
+.skill-row{
+    width: 30%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+
+.top-container{
+    background-color: #EAF6F6;
+    position: relative;
+    padding-top: 100px;
+    text-decoration-color: #40514E;
+}
+
+.top-cloud{
+    position: absolute;
+    top:40px;
+    right: 300px;
+}
+.contact-me, .skill-div{
+       padding-top: 80px;
+}
+
+
+/***********************************/
+#title .container-fluid{
+    padding: 3% 15% 7%;
+
+}
+.nav-link{
+    font-family: 'Merriweather', sans-serif;
+    font-size: 1.2rem;
+}
+.nav-item{
+    padding: 0 18px;
+}
+.navbar{
+    padding:0 0 4.5rem;
+}
+
